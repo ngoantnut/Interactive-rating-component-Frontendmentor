@@ -1,5 +1,5 @@
 # Front-end Style Guide
-
+Link: https://interactive-rating-component-frontendmentor.pages.dev/
 ## Layout
 
 The designs were created to the following widths:
